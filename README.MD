@@ -3,7 +3,7 @@
 
 Simple project to demonstrate the use of [LilyGo T-Dongle-S3](https://github.com/Xinyuan-LilyGO/T-Dongle-S3).
 
-The reason I'm providing this publicly it's because it's somewhat less than trivial to get this dongle working. Also, there isn't a lot of documentation online about it. Thus, one can use this project as scardfolding for something bigger.
+This is built on an old project because the old code stopped working, so this is the new new T dongle s3 fork AUG 2025
 
 ![T-Dongle-S3](img/t-dongle-s3.png)
 

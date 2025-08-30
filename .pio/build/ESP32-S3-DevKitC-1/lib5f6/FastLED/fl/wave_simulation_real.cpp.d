@@ -1,0 +1,37 @@
+.pio/build/ESP32-S3-DevKitC-1/lib5f6/FastLED/fl/wave_simulation_real.cpp.o: \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/wave_simulation_real.cpp \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/clamp.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/force_inline.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/namespace.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/wave_simulation_real.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/math_macros.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/scoped_ptr.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/allocator.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/inplacenew.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/type_traits.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/unused.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/deprecated.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/vector.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/functional.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/ptr.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/template_magic.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/insert_result.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/warn.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/dbg.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/strstream.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/crgb.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/chsv.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/color.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/lib8tion/types.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/str.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/geometry.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/math.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/map_range.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/supersample.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/xymap.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/lut.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/xmap.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fx/fx.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fx/detail/draw_context.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fx/detail/transition.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fx/fx2d.h

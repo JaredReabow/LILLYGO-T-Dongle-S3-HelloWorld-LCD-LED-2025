@@ -1,0 +1,19 @@
+.pio/build/ESP32-S3-DevKitC-1/lib5f6/FastLED/fl/xmap.cpp.o: \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/xmap.cpp \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/xmap.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/force_inline.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/lut.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/allocator.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/inplacenew.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/type_traits.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/namespace.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/unused.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/ptr.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/scoped_ptr.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/deprecated.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/template_magic.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/geometry.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/math.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/clamp.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/map_range.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/FastLED/src/fl/math_macros.h
